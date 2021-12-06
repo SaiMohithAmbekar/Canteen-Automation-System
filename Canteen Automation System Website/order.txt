@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+        <!--jQuery library--> 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!--Latest compiled and minified JavaScript--> 
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="" type="text/css">
+        <title>Canteen Automation System</title>
+    </head>
+    <body>
+        <nav>
+        <div class="container">
+    <div class="jumbotron" style="margin-top: 9%;">
+        <h1>Welcome to Canteen Automation System</h1>
+        <p>We have the best food service at your door steps.</p>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="5.jpg">
+                <div class="caption">
+                <h4>Urus Non Veg</h4>
+                <p>Behind Lakxmi Nagar</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+            </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="2.jpg">
+                <div class="caption">
+                <h4>New Punjabi Dhaba</h4>
+                <p>MG Road</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+            </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="3.jpg">
+                <div class="caption">
+                <h4>Maharashtrian Thali</h4>
+                <p>KG Nagar</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+                </div>
+            </div>
+        
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="4.jpg">
+                <div class="caption">
+                <h4>Sopan Wade Wale</h4>
+                <p>Sector 41</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="9.jpg">
+                <div class="caption">
+                <h4>Mohit South Indian Restaurant</h4>
+                <p>Sector 32</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+            </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="10.jpg">
+                <div class="caption">
+                <h4>Rio's Cafe</h4>
+                <p>Sector 91</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+            </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="11.jpg">
+                <div class="caption">
+                <h4>Domino's Pizza</h4>
+                <p>L2 Nagar</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+                </div>
+            </div>
+        
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="12.jpg">
+                <div class="caption">
+                <h4>Veda's Barbeque Nation</h4>
+                <p>Ambedkar Streets</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+
+
+
+
+
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="8.jpg" height="150px">
+                <div class="caption">
+                <h4>Nikhil Shwarma Centre</h4>
+                <p>Sarojini Lane</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+            </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="6.jpg">
+                <div class="caption">
+                <h4>Veer Momos</h4>
+                <p>Sector 44</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+            </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="13.jpg">
+                <div class="caption">
+                <h4>Cafe Coffee Day</h4>
+                <p>L1 Street</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+                </div>
+            </div>
+        
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail" style="text-align: center;">
+                <img src="14.jpg">
+                <div class="caption">
+                <h4>A1 Nashta Centre</h4>
+                <p>D2 Sector</p>
+                <button class="btn btn-primary btn-block">Add to cart</button>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+</div>
+</nav>
+</body>
+</html>

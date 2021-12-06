@@ -1,0 +1,35 @@
+.container {
+  margin-top: auto;
+}
+
+
+
+#banner_image
+{
+    align-self: auto;
+  display: flex;
+  margin-top: -1%;
+  margin-right: 1%;
+ 
+  background-position: center;
+  
+ 
+}
+
+.item {
+  margin-bottom: 400px;
+}
+
+\
+
+
+
+
+
+
+<!-- <?php
+	if(isset($_SESSION["id"])){
+		header("location: login.html");
+	}
+	// require('C:\wamp64\www\VirtualHost\Website\common.php');
+?> -->
