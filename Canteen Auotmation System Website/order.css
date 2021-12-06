@@ -1,0 +1,141 @@
+.cart-item-image {
+    width: 75px;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  .cart-column {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    margin-right: 1.5em;
+    padding-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  .cart-row {
+    display: flex;
+  }
+  
+  .cart-item {
+    width: 45%;
+  }
+  
+  .cart-price {
+    width: 20%;
+  }
+  
+  .cart-quantity {
+    width: 35%;
+  }
+  
+  .cart-item-title {
+    color: #333;
+    margin-left: 0.5em;
+    font-size: 1.2em;
+  }
+
+  
+.btn:hover {
+  background-color: rgb(218, 207, 207) !important;
+  color: black;
+}
+
+
+.col-sm-6:hover {
+  transform: translateY(-5px);
+}
+
+.btn {
+  border-radius: 15px 15px 15px 15px;
+  background-color: rgb(27, 15, 27) !important;
+}
+
+body {
+  background-image: url('SEPM 143.jpg');
+  background-size: auto;
+}
+
+.navbar {
+  background-image: url('Navbar.jpg');
+  height: 60px;
+  padding-top: 6px;
+
+}
+
+.navbar-nav li a {
+  color: black !important;
+  font-size: 18px;
+}
+
+.navbar-brand {
+  color: black !important;
+  font-size: 25px;
+}
+
+.container {
+  margin: 0 auto;
+  /* padding: 0 1.5em; */
+}
+
+.cart-row {
+  display: flex;
+}
+
+.cart-item {
+  width: 45%;
+}
+
+.cart-price {
+  width: 20%;
+}
+
+.cart-quantity-input {
+  height: 35px;
+  width: 50px;
+  border-radius: 7px;
+  /* border: 1px solid #56ccf2; */
+  color: #333;
+  text-align: center;
+  font-size: large;
+  margin-right: 10px;
+}
+
+.cart-total {
+  text-align: end;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.cart-total-title {
+  font-size: 20px;
+  color: black;
+  margin-right: 10px;
+}
+
+.cart-total-price {
+  font-weight: bold;
+  color: #333;
+  font-size: large;
+}
+
+
+.purchaseBtn {
+  display: block;
+  margin: 40px auto 80px auto;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(11, 194, 11);
+  border-radius: 15px;
+  width: 350px;
+}
+
+
+
+.container-fluid {
+  background-image: url('Navbar.jpg');
+}
+
+
+
+
